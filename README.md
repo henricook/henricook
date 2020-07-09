@@ -1,6 +1,4 @@
-:wave:
-
-# Henri Cook
+# :wave:
 
 Passionate Scala Engineer / Tech Enthusiast working in [London](https://goo.gl/maps/pidfad2oo5e6BCX48)
 
