@@ -20,7 +20,7 @@ You can also find me on [Facebook](https://www.facebook.com/henri.cook) and [Twi
 
 The Riddler is a small microservice written in Go to let you check passwords against the NCSC bad list - https://theriddler.dev
 
-# Specialties
+## Specialties
 
 I have extensive experience in:
 
