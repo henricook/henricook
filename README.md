@@ -16,7 +16,7 @@ I [blog](https://blog.henricook.com) sporadically.
 
 You can check [LinkedIn](http://www.linkedin.com/in/henricook) to find out about my work.
 
-You can also find my on [Facebook](https://www.facebook.com/henri.cook) and [Twitter](https://www.twitter.com/henricook)
+You can also find me on [Facebook](https://www.facebook.com/henri.cook) and [Twitter](https://www.twitter.com/henricook)
 
 ## Projects
 
