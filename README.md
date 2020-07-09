@@ -1,6 +1,8 @@
+# :wave:
+
 # Henri Cook
 
-Passionate Scala Contractor / Tech Enthusiast working in [London](https://goo.gl/maps/pidfad2oo5e6BCX48)
+Passionate Scala Engineer / Tech Enthusiast working in [London](https://goo.gl/maps/pidfad2oo5e6BCX48)
 
 ## About
 
@@ -12,4 +14,20 @@ I like working with other motivated professionals on teams that want to do great
 
 I [blog](https://blog.henricook.com) sporadically.
 
-<svg class="SVGInline-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000"><path d="M1000 500c0 277-223 500-500 500S0 777 0 500 223 0 500 0s500 223 500 500zM375 260c-1-41-32-73-83-73-50 0-83 32-83 73s32 73 82 73h1c51 0 83-32 83-73zm-21 136H229v354h125V396zm458 166c0-114-56-187-146-187-50 0-87 30-104 75l-4-54H434c1 13 3 83 3 83v271h125V562c0-50 23-83 62-83 38 0 63 20 63 83v188h125V562z"></path></svg>
+You can check [LinkedIn](http://www.linkedin.com/in/henricook) to find out about my work.
+
+You can also find my on [Facebook](https://www.facebook.com/henri.cook) and [Twitter](https://www.twitter.com/henricook)
+
+## Projects
+
+The Riddler is a small microservice written in Go to let you check passwords against the NCSC bad list - https://www.theriddler.dev
+
+# Specialties
+
+I have extensive experience in:
+
+- Identity and access management (IAM)
+- Media pipeline, transcoding, QC and delivery
+- Devops/Infrastructure management
+- Distributed systems architecture
+- Engineering complex workflows in enterprise-grade applications
