@@ -24,6 +24,7 @@ The Riddler is a small microservice written in Go to let you check passwords aga
 
 I have extensive experience in:
 
+- Functional programming
 - Identity and access management (IAM)
 - Media pipeline, transcoding, QC and delivery
 - Devops/Infrastructure management
