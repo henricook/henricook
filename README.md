@@ -1,4 +1,4 @@
-# :wave:
+:wave:
 
 # Henri Cook
 
