@@ -7,6 +7,12 @@ Passionate Scala Engineer / Tech Enthusiast working in [London](https://goo.gl/m
 I specialise in building highly scalable, enterprise-grade software and increasingly in (Big) Data and Machine Learning stacks.
 
 I like working with other motivated professionals on teams that want to do great things.
+
+[![Henri's GitHub stats](https://github-readme-stats.vercel.app/api?username=henricook&show_icons=true&hide_border=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henricook&hide=ruby,css&theme=dracula&hide_border=true&exclude_repo=crispy-train&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=henricook.henricook)
  
 ## Social
 
