@@ -24,7 +24,6 @@ You can also find me on [Facebook](https://www.facebook.com/henri.cook) and [Twi
 
 ## Projects
 
-- [**The Riddler**](https://theriddler.dev) is a small microservice written in Go to let you check passwords against the NCSC bad list - https://theriddler.dev
 - [**Maildrop.dev**](https://maildrop.dev) is a catch all email service for QAs and Developers that works with unlimited subdomains - https://maildrop.dev
 
 ## Specialties
