@@ -36,3 +36,7 @@ I have extensive experience in:
 - Devops/Infrastructure management
 - Distributed systems architecture
 - Engineering complex workflows in enterprise-grade applications
+
+
+
+![](https://komarev.com/ghpvc/?username=henricook)
